@@ -12,7 +12,7 @@ Datasheet:[[1]](http://img.banggood.com/file/products/20180713045225Eachinebeeco
 
 2. Frame  
 [Oscarliang Whoopie frame for 8.5mm motor](https://oscarliang.com/whoopee-micro-frame/)  
-[Whoopee Micro Quad Build – with Scisky FC](https://oscarliang.com/whoopee-micro-quad-build-scisky-fc/)
+[Whoopee Micro Quad Build – with Scisky FC](https://oscarliang.com/whoopee-micro-quad-build-scisky-fc/)  
 [Whoopie frame stl files](https://www.thingiverse.com/thing:1700311)  
 [QX90 MINI WHOOP QUAD V2](https://www.thingiverse.com/thing:2137840)  
 
