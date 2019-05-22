@@ -12,7 +12,9 @@ Datasheet:[[1]](http://img.banggood.com/file/products/20180713045225Eachinebeeco
 
 2. Frame  
 [Oscarliang Whoopie frame for 8.5mm motor](https://oscarliang.com/whoopee-micro-frame/)  
+[Whoopee Micro Quad Build – with Scisky FC](https://oscarliang.com/whoopee-micro-quad-build-scisky-fc/)
 [Whoopie frame stl files](https://www.thingiverse.com/thing:1700311)  
+[QX90 MINI WHOOP QUAD V2](https://www.thingiverse.com/thing:2137840)  
 
 3. Motor  
 Chaoli 8520 coreless [motors](https://www.banggood.in/4X-Chaoli-CL-820-8_5x20mm-Coreless-Motor-for-90mm-150mm-DIY-Micro-FPV-RC-Quadcopter-Frame-p-1069067.html)  
